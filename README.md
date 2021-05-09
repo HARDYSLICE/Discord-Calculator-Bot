@@ -2,7 +2,7 @@
 A simple mathematic calculations bot
 
 To run this bot:
-1. first clone this repo:
+1. first clone this repo
 2. Install node.js v12
 3. Install all the packages and dependencies with `npm i` 
 

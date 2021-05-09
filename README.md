@@ -10,4 +10,4 @@ Go to `config.json` file and give your bot token there, default bot prefix is `.
 
 Add the Calculator bot to your server: [ADD IT FROM HERE](https://discord.com/api/oauth2/authorize?client_id=840598582867263509&permissions=391232&scope=bot)
 
-Join my Discord Server: [click here to join](https://discord.gg/787UdG33zM)
+Join my Discord Server: [Click here to join](https://discord.gg/787UdG33zM)
